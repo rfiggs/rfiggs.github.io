@@ -2,7 +2,7 @@
   "basics": {
     "name": "Robert Figgs",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/bobby.png",
     "email": "rfiggs@hawaii.edu",
     "phone": "360-536-7805",
     "website": "https://rfiggs.github.io",
@@ -19,6 +19,11 @@
         "network": "github",
         "username": "rfiggs",
         "url": "http://github.com/rfiggs"
+      },
+      {
+        "network": "linkedin",
+        "username": "rfiggs",
+        "url": "https://www.linkedin.com/in/robert-figgs-735281124"
       }
     ]
   },
