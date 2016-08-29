@@ -6,7 +6,7 @@
     "email": "rfiggs@hawaii.edu",
     "phone": "360-536-7805",
     "website": "https://rfiggs.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am a student enrolled in the Informations and Computer Sciences program at The University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -29,10 +29,11 @@
   },
   "interests": [
     {
-      "name": "programming",
+      "name": "Web Development"
       "keywords": [
-        "java",
-        "python"
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     }
   ],
