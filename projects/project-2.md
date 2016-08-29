@@ -1,24 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/outboard.png
+title: In/Out Board
+permalink: projects/inout
+date: 2016
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - JavaEE
+  - MySql
   - GitHub
+  - AngularJS
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The In/Out board is a project that another student and I are working on for ITS. It is a simple web app that will allow staff of ITS to check to see who is in or out of the office. This project gave me experience with full-stack web application developing. I gained expeirence with many new technologies including, MySql for the database, JavaEE for the server side, AngularJS for the front end, Twitter Bootstrap for styling, and github to manage the project. This project is still in progress, and I am excited to complete it.
