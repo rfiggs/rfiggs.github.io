@@ -19,4 +19,4 @@ Back in 2012 when I was a senior in high school, I was part of the FIRST robotic
 
 I was one of only two programmers on the team. Our main jobs were, setting up the remote control system for the robot, and teaching the robot to aim and shoot. The remote control system was pretty straight forward, but teaching the robot to aim and shoot was a big challenge. Robotics was a great experience for me, I learned a lot about working in a large team, and the importance of effective communication between departments.
 
-Read about <a src="http://www.firstinspires.org">FIRST</a>
+Read about [FIRST Robotics](http://www.firstinspires.org).
