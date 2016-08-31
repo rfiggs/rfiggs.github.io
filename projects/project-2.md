@@ -11,7 +11,7 @@ labels:
   - MySql
   - GitHub
   - AngularJS
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A web application that keeps track of employee absences
 ---
 
 <img class="ui medium right floated rounded image" src="../images/outboard.png">
