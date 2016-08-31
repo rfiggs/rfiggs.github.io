@@ -12,7 +12,7 @@ labels:
 summary: FIRST Robotics 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/robot.PNG">
+<img class="ui medium right floated rounded image" src="../images/robot.jpg">
 
 
 Back in 2012 when I was a senior in high school, I was part of the FIRST robotics team. FIRST robotics hosts a new competition every year, and high schools build robots to try and compete. In 2012 the challenge was something called Rebound Rumble, which was essentially just basketball with a lot of balls. To succeed at this competition a robot needed two thing, a way to collect the balls, and a way to throw them through the hoop.
