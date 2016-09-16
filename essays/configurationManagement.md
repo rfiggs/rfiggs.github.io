@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management
+title: Github
 date: 2016-09-13
 labels:
   - Git/Github
@@ -19,6 +19,7 @@ labels:
 When working on a large team of software developers, a number of problems arise. The biggest issue is managing the source code for the project. One solution is to make a copy of the code for each programmer, however this solution can get complicated quickly. What happens when one programmer changes code in one of the files? That programmer then needs to send the file to every other programmer so that everyone has up to date code. What happens if one programmer didn't get the email with your new code? Bugs would arise in the program down the line and it could take a while for the programmer to realize that they are missing a file. Programs like subversion and git try to bring some structure to this chaos.
 
  **talk about git here**
+ Git aims to fix the above issue by keeping the code in something called a repository. If a programmer wants to work on something, they can get it from the repository, and if they make a change they can push it back to the repository. By keeping the source code in a centralized place that all the coders have access to, you lessen the risk of someone not having the correct version of code. Git also has another feature that is important for software developers, a history of changes. Git keeps track of every change made to the code, as well as who made the change. This is especially useful when you are trying to debug a program. You can look through the git log to figure out when the bug was introduced, and who introduced it.
 
 Git is a piece of software designed to help teams of software developers keep track of various changes in their code. Git keeps track of changes using a system of commits. Git is used to manage different versions of software.
 
