@@ -1,0 +1,52 @@
+---
+layout: essay
+type: essay
+title: Coding Style
+date: 2016-21-30
+labels:
+  - Software Engineering
+  - Learning
+  - JavaScript
+---
+
+Programming is a long, complicated process that can involve thousands of lines of code.
+Any time someone new is added to the programming team, they must go through the source code and figure out what is going on.
+How long this takes depends on how well the code is organized.
+If the code is messy, it can take much longer for a new programmer to figure out what is actually going on.
+
+  because of this code style standards have become a nessisty in any programming environment.
+  to aliviate this problem, some programmers have designed common standards for coding
+  Common coding standards have arisen from this issue.
+ Eventually, someone decided that they were sick of reading through messy and sloppy code, so they decided to create common standards.
+
+
+Coding statndards are a very important part of any coding language.
+they help to keep everything organized and looking neat and tidy.
+coding standards are desigined to reduce small misteakes and make code overall more readable.
+learning a coding standard can sometimes be tricky.
+some coding standards will not allow you to use certain functions that you could otherwise use in your program
+This usually only happens when there is a safer, or more readable option available.
+using a coding standart makes your code more attractive to customers, as well as other programmers.
+Coding standards are around to make the work for a programmer easier.
+Eslint is an auotmated program desinged to enforce a coding standard.
+
+
+Eslint is a tool designed specifically for enforcing javascript standards.
+Whats nice about eslint, is that they dont force a standard on you.
+You can define any sort of standard that you would like and eslint will enforce it.
+Eslint can opperate as a plugin for intellij IDE, making it desriable for intellij users.
+This tool will scan through your source code as you write it, so the information is more or less realtime.
+Any infractions of the coding standared will be marked with a red line uder them, much like when you spell a word incorectly in microsoft word.
+Coding standards and specifcally eslint are very good for begining programmers.
+coding standards remove a lot of the small simple mistakes that programmers make.
+Eslint enforces a coding standards, and when usuing intellij the errors apear inline.
+This appeals to newer programmers as they can see the error right in the code.
+Whereas with out eslint the programmer would have to run the code, then get an error message, then figure out what it means.
+
+
+Before turning in an assignment, I proof read my code, and make sure that it is up to the required standard.
+Eslint has made this process obsselete.
+Since ESlint is always reading the document, if you make a mistake, Eslint will notify you of the infraction.
+This gives the programmer a chance to immeditaly rectfiy the problem.
+This removes the necsessity to proof read code, for syntax errors, before turning it in.
+This ultimately makes the programmer more efficient.
