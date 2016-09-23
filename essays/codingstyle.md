@@ -9,7 +9,6 @@ labels:
   - JavaScript
 ---
 
-
 Messy code is a programmers worst nightmare when joining a new programming team. Messy code means the programmer must take time to refactor their code into something readable. Whereas, neat and clean code means the programmer can immediately start working on the project. There is nothing worse than taking on a large project with hundreds of source files, and finding out that you need to refactor most of the code to be able to read it. This wastes a company's time and money, as the programmer cannot contribute until they clean up and understand the code. Because of this, coding standards, which are designed to keep code neat, have become essential to programming.
 
 A coding standard is nothing more than a list of rules on how to format your code. It does not aim to change the content of your code. Instead, they exist to make the code you have more readable, more organized, and less confusing. Implementing a coding standard is not hard, in fact most of the time you are just adding extra white spaces to your files. However, it can become tedious when the project involves hundreds of files. Luckily for us, there are automated tools designed to help us with this daunting task.
