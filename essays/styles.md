@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding Style
-date: 2016-09-13
+date: 2016-21-30
 labels:
   - JavaScript
   - Learning
