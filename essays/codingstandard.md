@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding Style
-date: 2016-9-21
+date: 2016-09-21
 labels:
   - Software Engineering
   - Learning
