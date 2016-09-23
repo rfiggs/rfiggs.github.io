@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Other
+title: Coding Style
 date: 2016-09-13
 labels:
-  - Git/Github
+  - JavaScript
   - Learning
 ---
 
