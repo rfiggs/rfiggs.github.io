@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Style
+title: Coding Styles
 date: 2016-21-30
 labels:
   - Software Engineering
