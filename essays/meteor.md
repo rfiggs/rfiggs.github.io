@@ -14,7 +14,7 @@ labels:
 Meteor is a new modern full stack developing platform.
 Previously in web development, you need separate software for the server, the database, and the browser.
 All three of these would generally be in different languages.
-In meteor everything is in JavaScript, from the database all the way to the front end.
+In Meteor everything is in JavaScript, from the database all the way to the front end.
 This makes developing apps much quicker and easier to understand.
 What really makes Meteor unique however, is how the client interacts with the server.
 
@@ -31,8 +31,8 @@ The database on the server contains all of the information that the app needs.
 The database on the client is more like a mini database.
 This mini database is simply a small subset of the data that is on the server.
 The mini database only contains information that that client needs.
-The magic of meteor is that it keeps these databases up to date with each other without much effort from the developer.
-If there is an update on one of the clients meteor will update the server's database.
+The magic of Meteor is that it keeps these databases up to date with each other without much effort from the developer.
+If there is an update on one of the clients Meteor will update the server's database.
 If there is a change to the server's database, it will push the update to any other clients that are viewing that data.
 
 I have enjoyed learning and using Meteor.
