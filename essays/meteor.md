@@ -18,13 +18,14 @@ In Meteor everything is in JavaScript, from the database all the way to the fron
 This makes developing apps much quicker and easier to understand.
 What really makes Meteor unique however, is how the client interacts with the server.
 
-According to web standards, the process to load a website starts with the client sending a request to the server, and then the server sends back the webpage that the client requested.
-This is how websites have loaded for a long time now, and it works well until you have multiple users looking at and editing the same piece of data.
+According to web standards, the process to load a website starts with the client sending a request to the server.
+The server then sends back whichever webpage that the client requested.
+This is how websites have loaded for a long time now, and it works well until you have multiple users looking at, and editing the same piece of data.
 When one person makes an edit, it needs to be reflected on the other users screen.
 Since a client needs to make a request before the server can send information, how can the server notify the client it needs updating?
 The current method is something called AJAX, asynchronous JavaScript and XML.
 Basically in the background of the web app the client is constantly sending requests to the server and checking for changes.
-Meteor was designed with this issues in mind, so it is much easier to make pages with live updates in Meteor, than it is in other frameworks.
+Meteor was designed with this issue in mind, so it is much easier to make pages with live updates in Meteor, than it is in other frameworks.
 
 To accomplish this, Meteor uses a system of MongoDB databases, one on the server, and one for every client.
 The database on the server contains all of the information that the app needs.
