@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: MeteorJS
+title: Meteor
 date: 2016-10-20
 labels:
   - Software Engineering
   - Learning
   - JavaScript
   - Web Development
-  - MeteorJs
+  - Meteor
 ---
 
 Meteor is a new modern full stack developing platform.
