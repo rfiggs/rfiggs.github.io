@@ -6,7 +6,7 @@
     "email": "rfiggs@hawaii.edu",
     "phone": "360-536-7805",
     "website": "https://rfiggs.github.io",
-    "summary": "I am a student enrolled in the Informations and Computer Sciences program at The University of Hawaii at Manoa.",
+    "summary": "I am studying the Information and Computer Sciences at The University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -29,22 +29,47 @@
   },
   "interests": [
     {
-      "name": "Web Development, Game Development, Robotics",
+      "name": "Web Development",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
       ]
-    }
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Robotics",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Meteor",
+        "SemanticUI",
+        "MongoDB",
+        "JavaServer Pages",
+        "Bootstrap",
+        "Spring Famework",
+        "Spring Security",
+        "AngularJS",
+        "MySQL",
+        "Apache Tomcat",
+        "Apache Maven"
       ]
     },
     {
@@ -91,12 +116,9 @@
       "summary": "",
       "highlights": [
         "Troubleshoot phone issues, and billing issues.",
-        "Talk to and reccomend products to customers."
+        "Talk to and recommend products to customers."
       ]
     }
-  ],
-  "volunteer": [
-    
   ],
   "awards": [
     {
