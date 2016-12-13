@@ -8,7 +8,7 @@ date: 2016
 labels:
   - Software Engineering
   - Web Development
-  - Meteor JS
+  - Meteor
   - Semantic UI
 summary: Our team developed a Meteor web application to help students find interesting clubs
 ---
