@@ -24,7 +24,7 @@ For more information please see the [Project Page](https://clubconnector.github.
 
 ## My Contribution
 
-My main contribution to the project was the functionality of the browse page. I set up the system that takes information from the search bar, filter bar, and the user's favorites, and uses it to create a list of clubs that matches the specifications. I also set up the system for loading and saving default filters.
+My main contribution to the project was the functionality of the browse page. I set up the system that uses information from the search bar, filter bar, and the user's favorites, to create a list of clubs that matches the specifications. I also set up the system for loading and saving default filters.
 
 
 ## What I Learned
