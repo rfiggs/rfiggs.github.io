@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo-ubuntu.png
+image: images/ClubConnector_Landing_Square.png
 title: Club Connector
 permalink: projects/club-connector
 date: 2016
@@ -13,7 +13,7 @@ labels:
 summary: Our team developed a Meteor web application to help students find interesting clubs
 ---
 
-<img class="ui image" src="../images/ClubConnector_landing.png">
+<img class="ui image" src="../images/ClubConnector_Landing.png">
 
 Club Connector is a Meteor web application that me and three other students developed for our software engineering class. Club Connector is a place where University of Hawaii students can go to quickly find clubs based on their interests.
 
@@ -22,11 +22,11 @@ On the main page of the website, each club gets a card with a little bit of info
 
 For more information please see the [Project Page](https://clubconnector.github.io/)
 
-##My Contribution
+## My Contribution
 
 My main contribution to the project was the functionality of the browse page. I set up the system that takes information from the search bar, filter bar, and the user's favorites, and uses it to create a list of clubs that matches the specifications. I also set up the system for loading and saving default filters.
 
 
-##What I Learned
+## What I Learned
 
 This project gave me a lot of experience with JavaScript, Semantic UI, Meteor, and MongoDB. Through this experience, I have learned a lot about how Meteor templates interact with each other, with Semantic elements, and with the underlying Mongo database. I also got to practice using GitHub on a larger team. We used GitHub's Issue system to track tasks, and we used GitHub's projects to organize those tasks into milestones. Since our team could only meet about once a week, this system was perfect for keeping track of who was doing what, and what needed to be done.
