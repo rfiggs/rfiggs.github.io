@@ -1,19 +1,22 @@
 ---
 layout: project
 type: project
-image: images/outboard.png
-title: In/Out Board
-permalink: projects/outboard
-date: 2016
+image: images/robot.png
+title: Rebound Rumble
+permalink: projects/robot
+date: 2012
 labels:
-  - Javascript
-  - JavaEE
-  - MySql
-  - GitHub
-  - AngularJS
-summary: A web application that keeps track of employee absences
+  - LabView
+  - Arduino
+  - Robotics
+summary: FIRST Robotics 
 ---
 
-The In/Out board is a project that another student and I are working on for ITS. It is a simple web app that will allow staff of ITS to check to see who is in or out of the office. This project gave me experience with full-stack web application developing. I gained experience with many new technologies including, MySql for the database, JavaEE for the server side, AngularJS for the front end, Bootstrap for styling, and github to manage the project. This project is still in progress, and I am excited to complete it.
+<img class="ui medium right floated rounded image" src="../images/robot.png">
 
-<img class="ui medium left floated rounded image" src="../images/outboard.png">
+
+Back in 2012 when I was a senior in high school, I was part of the FIRST robotics team. FIRST robotics hosts a new competition every year, and high schools build robots to try and compete. In 2012 the challenge was something called Rebound Rumble, which was essentially just basketball with a lot of balls. To succeed at this competition a robot needed two thing, a way to collect the balls, and a way to throw them through the hoop.
+
+I was one of only two programmers on the team. Our main jobs were, setting up the remote control system for the robot, and teaching the robot to aim and shoot. The remote control system was pretty straight forward, but teaching the robot to aim and shoot was a big challenge. Robotics was a great experience for me, I learned a lot about working in a large team, and the importance of effective communication between departments.
+
+Read about [FIRST Robotics](http://www.firstinspires.org).

@@ -1,22 +1,32 @@
 ---
 layout: project
 type: project
-image: images/robot.png
-title: Rebound Rumble
-permalink: projects/robot
-date: 2012
+image: images/ClubConnector_Landing_Square.png
+title: Club Connector
+permalink: projects/club-connector
+date: 2016
 labels:
-  - LabView
-  - Arduino
-  - Robotics
-summary: FIRST Robotics 
+  - Software Engineering
+  - Web Development
+  - Meteor
+  - Semantic UI
+summary: Our team developed a Meteor web application to help students find interesting clubs
 ---
 
-<img class="ui medium right floated rounded image" src="../images/robot.png">
+<img class="ui image" src="../images/ClubConnector_Landing.png">
+
+Club Connector is a Meteor web application that me and three other students developed for our software engineering class. Club Connector is a place where University of Hawaii students can go to quickly find clubs based on their interests.
 
 
-Back in 2012 when I was a senior in high school, I was part of the FIRST robotics team. FIRST robotics hosts a new competition every year, and high schools build robots to try and compete. In 2012 the challenge was something called Rebound Rumble, which was essentially just basketball with a lot of balls. To succeed at this competition a robot needed two thing, a way to collect the balls, and a way to throw them through the hoop.
+On the main page of the website, each club gets a card with a little bit of information about the club on it. The card also contains a link to the club's profile, where the user can get in-depth information about the organization. The main page also features a search bar, which users can use to find specific clubs. If they don't know exactly what club they are looking for, they can use the sites filter system to do a general search of topics. Once a user logs in, they can save their preferred filters, and their favorite clubs.
 
-I was one of only two programmers on the team. Our main jobs were, setting up the remote control system for the robot, and teaching the robot to aim and shoot. The remote control system was pretty straight forward, but teaching the robot to aim and shoot was a big challenge. Robotics was a great experience for me, I learned a lot about working in a large team, and the importance of effective communication between departments.
+For more information please see the [Project Page](https://clubconnector.github.io/)
 
-Read about [FIRST Robotics](http://www.firstinspires.org).
+## My Contribution
+
+My main contribution to the project was the functionality of the browse page. I set up the system that uses information from the search bar, filter bar, and the user's favorites, to create a list of clubs that matches the specifications. I also set up the system for loading and saving default filters.
+
+
+## What I Learned
+
+This project gave me a lot of experience with JavaScript, Semantic UI, Meteor, and MongoDB. Through this experience, I have learned a lot about how Meteor templates interact with each other, with Semantic elements, and with the underlying Mongo database. I also got to practice using GitHub with a larger team than I am used to. We used GitHub's Issue system to track tasks, and we used GitHub's projects to organize those tasks into milestones. Since our team could only meet about once a week, this system was perfect for keeping track of who was doing what, and what needed to be done.
